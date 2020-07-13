@@ -266,6 +266,7 @@ cherry
 chester
 cheyenne
 chicago
+root
 chichi
 chicken
 chiquita
