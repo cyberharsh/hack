@@ -10,3 +10,5 @@ password
 root
 user
 username
+admin
+pass123
